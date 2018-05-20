@@ -1,0 +1,14 @@
+.cool {
+	color: pink;
+	font-size: 50px;
+	box-shadow: 0, 0, 0, 0.5;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+li {
+	line-height: 30px;
+}
+
